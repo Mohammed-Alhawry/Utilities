@@ -1,1 +1,1 @@
-this repository contains different usefule utilities whritten in c#
+this repository contains different useful utilities written in c#
